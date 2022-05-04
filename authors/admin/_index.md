@@ -23,7 +23,7 @@ interests:
   - C++
 
 # Education to show in About widget
-Образование:
+education:
   courses:
     - course: Среднее образование
       institution: Школа №33 им. Карла Маркса, г. Ярославль
